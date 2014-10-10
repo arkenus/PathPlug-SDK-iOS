@@ -6,7 +6,7 @@ PathPlug iOS SDK (v1.0.0)
 * [Installation](#installation)  
 * [Setup](#setup)  
 * [Delegates](#delegate-methods)  
-
+* [Class Documents](#class-documents) 
 
 Requirements
 ----------------------------------
@@ -126,3 +126,9 @@ Fired when data is completely downloaded from API and ready to use
 Returns real time sightings of Beacons and their distances
 
     - (void)pathPlug:(id)pathPlug updatedBeaconData:(id)beacon andDistance:(id)distance
+	
+
+Class Documents
+---------------------
+
+You can access class documents for PathPlug [here](http://www.pathplug.com/public/documentation/ios/index.html)
