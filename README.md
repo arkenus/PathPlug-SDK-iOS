@@ -4,8 +4,8 @@ PathPlug iOS SDK (v1.0.0)
 ##Table of Contents
 
 * [Installation](#installation)  
-* [Setup](#PrefixHeader.pch)  
-* [Delegates](#Delegates)  
+* [Setup](#setup)  
+* [Delegates](#delegate-methods)  
 
 
 Requirements
@@ -87,9 +87,9 @@ Returns NSArray* of beacons for app
     dataRefreshInterval
 
 
-Delegates Methods
+Delegate Methods
 ---------------------
-###Delegates
+
 ##pathPlug:getAssistanceData:
 
 Returns audio sign interaction information encapsulated in a Plug Data
